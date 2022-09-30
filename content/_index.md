@@ -2,12 +2,10 @@
 title: "Uni"
 ---
 ## Courses:
-- 
-- [[I & E Introductie]]
 - [[Foundations of Computer Science]]
 - [[Calculus]]
-- [[Studying and presenting]]
+- [[I & E Introductie]]
 - [[Essentials of computer systems]]
-- 
+- [[Studying and presenting]]
 ---
 Tags:  #Uni
