@@ -4,8 +4,10 @@ title: "Uni"
 
 # Uni
 ## Courses:
-```dataview
-list from #Course
-```
+- [[I & E Introductie]]
+- [[Foundations of Computer Science]]
+- [[Calculus]]
+- [[Studying and presenting]]
+- [[Essentials of computer systems]]
 ---
 Tags:  #Uni

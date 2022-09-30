@@ -4,13 +4,13 @@ title: "Essentials of computing systems"
 # Essentials of computing systems
 
 ## Notes & Ideas
-[[computing system]]
-[[abstraction]]
-[[protocols]]
-[[operating system ]]
-[[computer]]
-[[computer architecture]]
-[[computer networks]] 
+- [[computing system]]
+- [[abstraction]]
+- [[protocols]]
+- [[operating system ]]
+- [[computer]]
+- [[computer architecture]]
+- [[computer networks]] 
 ## Assignments
 [Groepsopdracht](https://liacs.leidenuniv.nl/~basoldh/education/essencs22/)
 ## Lectures
