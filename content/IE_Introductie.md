@@ -18,7 +18,7 @@ perspectieven:
 	- [[Vijfkrachtenmodel]]
 	- [[SWOT]]
 	- [[DESTEP]]
-	- [[Treacy & Wiersema]]
+	- [[Treacy en Wiersema]]
 	- [[Stadia Groepsvorming]]
 	- [[DIKW piramide]]
 	- [[Management piramide]]
