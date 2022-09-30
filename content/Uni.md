@@ -4,7 +4,7 @@ title: "Uni"
 
 # Uni
 ## Courses:
-- [[I & E Introductie]]
+- [[IE_Introductie]]
 - [[Foundations of Computer Science]]
 - [[Calculus]]
 - [[Studying and presenting]]
