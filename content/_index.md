@@ -1,4 +1,8 @@
 ---
+title: "_index"
+---
+
+---
 title: 🪴 Quartz 3.
 enableToc: false
 ---
