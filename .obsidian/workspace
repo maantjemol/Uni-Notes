@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "8fdaa6ec66650beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6523d6a5df3fbcd8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b45ae0bd111fa3a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3fe94d80fb560af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7210def12f63664b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e06899bd2c029fbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Essent",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81bfe00e1592e096",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "5ca913baf2967eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f682ce8bd1b7a31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b0a5ff931cbaf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "644a3248195928c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a472125213997e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627d61902abc429f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7210def12f63664b",
+  "lastOpenFiles": [
+    "Studying and presenting.md",
+    "Calculus.md",
+    "Types of relations.md",
+    "images/Types of relations 2022-09-29 10.29.02.excalidraw.md",
+    "Foundations of Computer Science.md",
+    "Uni.md",
+    "images/Essentials of computer systems.md",
+    "I & E Introductie.md",
+    "address space.md",
+    "images/types-market-structure.png.webp"
+  ]
+}

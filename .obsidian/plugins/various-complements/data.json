@@ -1,0 +1,2279 @@
+{
+  "strategy": "english-only",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt\n/nl_50k.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "aids": {
+      "aids": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662491260064
+        }
+      }
+    },
+    "root": {
+      "root": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1664455369039
+        },
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664455367512
+        }
+      }
+    },
+    "manuel": {
+      "manuel": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662491452799
+        }
+      }
+    },
+    "mol": {
+      "mol": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662491455455
+        }
+      }
+    },
+    "eventuele": {
+      "eventuele": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663919217967
+        }
+      }
+    },
+    "kippen": {
+      "kippen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662491465335
+        }
+      }
+    },
+    "gemaakt": {
+      "gemaakt": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662491472359
+        }
+      }
+    },
+    "functions": {
+      "functions": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1664522515337
+        }
+      }
+    },
+    "vissersboot": {
+      "vissersboot": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662492509035
+        }
+      }
+    },
+    "Presentation": {
+      "Presentation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535340920
+        }
+      }
+    },
+    "that": {
+      "that": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535346028
+        }
+      }
+    },
+    "summaries": {
+      "summaries": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535354527
+        }
+      }
+    },
+    "Content": {
+      "Content": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535445200
+        }
+      }
+    },
+    "essentials": {
+      "essentials": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535470274
+        }
+      }
+    },
+    "computer": {
+      "computer": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1662535501702
+        },
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1663747388396
+        }
+      }
+    },
+    "systems": {
+      "systems": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662535492366
+        }
+      }
+    },
+    "operating": {
+      "operating": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1662539227142
+        }
+      }
+    },
+    "networks": {
+      "networks": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1663143742041
+        }
+      }
+    },
+    "architecture": {
+      "architecture": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535510772
+        }
+      }
+    },
+    "terminology": {
+      "terminology": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535526349
+        }
+      }
+    },
+    "each": {
+      "each": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535926015
+        }
+      }
+    },
+    "part": {
+      "part": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662535928966
+        }
+      }
+    },
+    "Consist": {
+      "Consist": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536074335
+        }
+      }
+    },
+    "computing": {
+      "computing": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1662539742306
+        }
+      }
+    },
+    "devices": {
+      "devices": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663140936680
+        }
+      }
+    },
+    "electronic": {
+      "electronic": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663747453869
+        }
+      }
+    },
+    "quantum": {
+      "quantum": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662536701196
+        }
+      }
+    },
+    "biological": {
+      "biological": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536107182
+        }
+      }
+    },
+    "computing system": {
+      "computing system": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1662536657236
+        }
+      }
+    },
+    "resources": {
+      "resources": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536153645
+        }
+      }
+    },
+    "typically": {
+      "typically": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536169920
+        }
+      }
+    },
+    "consist": {
+      "consist": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1663141239021
+        }
+      }
+    },
+    "computers": {
+      "computers": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536195363
+        }
+      }
+    },
+    "discrete": {
+      "discrete": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536286826
+        }
+      }
+    },
+    "representation": {
+      "representation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536319378
+        }
+      }
+    },
+    "though": {
+      "though": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536351406
+        }
+      }
+    },
+    "Diffrent": {
+      "Diffrent": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1662540012166
+        }
+      }
+    },
+    "abstraction": {
+      "abstraction": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1663749128216
+        }
+      }
+    },
+    "represent": {
+      "represent": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536477899
+        }
+      }
+    },
+    "information": {
+      "information": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663139435947
+        }
+      }
+    },
+    "communication": {
+      "communication": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663143575937
+        }
+      }
+    },
+    "arrives": {
+      "arrives": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536544081
+        }
+      }
+    },
+    "protocols": {
+      "protocols": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1663145040106
+        }
+      }
+    },
+    "processes": {
+      "processes": {
+        "customDictionary": {
+          "count": 12,
+          "lastUpdated": 1663661737927
+        }
+      }
+    },
+    "processor": {
+      "processor": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662543919937
+        }
+      }
+    },
+    "Upcoming": {
+      "Upcoming": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536615124
+        }
+      }
+    },
+    "supercomputer": {
+      "supercomputer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536677071
+        }
+      }
+    },
+    "internet": {
+      "internet": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662536681797
+        }
+      }
+    },
+    "things": {
+      "things": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663747682641
+        }
+      }
+    },
+    "system": {
+      "system": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662537837339
+        }
+      }
+    },
+    "applications": {
+      "applications": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663142831365
+        }
+      }
+    },
+    "device": {
+      "device": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662538277825
+        }
+      }
+    },
+    "state": {
+      "state": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662538300311
+        }
+      }
+    },
+    "policies": {
+      "policies": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662538867088
+        }
+      }
+    },
+    "interference": {
+      "interference": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662538330803
+        }
+      }
+    },
+    "other": {
+      "other": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662539468780
+        }
+      }
+    },
+    "virtualisation": {
+      "virtualisation": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1662539175690
+        }
+      }
+    },
+    "switch": {
+      "switch": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663747455518
+        }
+      }
+    },
+    "Schedulin": {
+      "Schedulin": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662538857179
+        }
+      }
+    },
+    "Scheduling": {
+      "Scheduling": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662538859213
+        }
+      }
+    },
+    "outside": {
+      "outside": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662539071832
+        }
+      }
+    },
+    "address": {
+      "address": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662539308669
+        }
+      }
+    },
+    "expanded": {
+      "expanded": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662539221974
+        }
+      }
+    },
+    "operating system": {
+      "operating system": {
+        "internalLink": {
+          "count": 8,
+          "lastUpdated": 1663141067279
+        }
+      }
+    },
+    "conversion": {
+      "conversion": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662539293017
+        }
+      }
+    },
+    "translation": {
+      "translation": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662539313114
+        }
+      }
+    },
+    "segmentation": {
+      "segmentation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662539400916
+        }
+      }
+    },
+    "different": {
+      "different": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1663226547802
+        }
+      }
+    },
+    "consecutive": {
+      "consecutive": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662539440905
+        }
+      }
+    },
+    "diffrent": {
+      "diffrent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662539504360
+        }
+      }
+    },
+    "Segmentation": {
+      "Segmentation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662539511489
+        }
+      }
+    },
+    "access": {
+      "access": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662539714054
+        }
+      }
+    },
+    "cache": {
+      "cache": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1662543734643
+        },
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662543732711
+        }
+      }
+    },
+    "registers": {
+      "registers": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1663139479790
+        }
+      }
+    },
+    "Typically": {
+      "Typically": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662539838991
+        }
+      }
+    },
+    "RAM": {
+      "RAM": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1662543739303
+        }
+      }
+    },
+    "page": {
+      "page": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662540081324
+        }
+      }
+    },
+    "harddrive": {
+      "harddrive": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662540212396
+        }
+      }
+    },
+    "process": {
+      "process": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1663140424746
+        }
+      }
+    },
+    "Harddrive": {
+      "Harddrive": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662543773168
+        }
+      }
+    },
+    "memory": {
+      "memory": {
+        "internalLink": {
+          "count": 12,
+          "lastUpdated": 1663749641420
+        }
+      }
+    },
+    "paging": {
+      "paging": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662544011411
+        }
+      }
+    },
+    "October": {
+      "October": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662620638113
+        }
+      }
+    },
+    "hours": {
+      "hours": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1662621435987
+        }
+      }
+    },
+    "grade": {
+      "grade": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1662621444805
+        }
+      }
+    },
+    "jan": {
+      "jan": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662621408420
+        }
+      }
+    },
+    "mathematics": {
+      "mathematics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662622826958
+        }
+      }
+    },
+    "Venn diagrams": {
+      "Venn diagrams": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1662625933789
+        }
+      }
+    },
+    "Boolean operations": {
+      "Boolean operations": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662622917540
+        }
+      }
+    },
+    "Set algebra": {
+      "Set algebra": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1662624553251
+        }
+      }
+    },
+    "elements": {
+      "elements": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662623233264
+        }
+      }
+    },
+    "irrelevant": {
+      "irrelevant": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662624531967
+        }
+      }
+    },
+    "Subsets": {
+      "Subsets": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662625163324
+        }
+      }
+    },
+    "visualize": {
+      "visualize": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662625723277
+        }
+      }
+    },
+    "set": {
+      "set": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662625727057
+        }
+      }
+    },
+    "sets": {
+      "sets": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662626324389
+        }
+      }
+    },
+    "Organisatie": {
+      "Organisatie": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663054037687
+        }
+      }
+    },
+    "behulp": {
+      "behulp": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663054076891
+        }
+      }
+    },
+    "technisch": {
+      "technisch": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663054084484
+        }
+      }
+    },
+    "financiele": {
+      "financiele": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663054097350
+        }
+      }
+    },
+    "Visie": {
+      "Visie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663054227680
+        }
+      }
+    },
+    "organisatie": {
+      "organisatie": {
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1664263067518
+        }
+      }
+    },
+    "Missie": {
+      "Missie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663054256137
+        }
+      }
+    },
+    "termijn": {
+      "termijn": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663054265961
+        }
+      }
+    },
+    "Doelen": {
+      "Doelen": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663054273653
+        }
+      }
+    },
+    "Strategie": {
+      "Strategie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663054296396
+        }
+      }
+    },
+    "daadwerkelijk": {
+      "daadwerkelijk": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663054309116
+        }
+      }
+    },
+    "categorieën": {
+      "categorieën": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663055036732
+        }
+      }
+    },
+    "Samsung": {
+      "Samsung": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663055029093
+        }
+      }
+    },
+    "wasmachine": {
+      "wasmachine": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663055132574
+        }
+      }
+    },
+    "leadership": {
+      "leadership": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663055161916
+        }
+      }
+    },
+    "indicatie": {
+      "indicatie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663055318254
+        }
+      }
+    },
+    "customer": {
+      "customer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663056889584
+        }
+      }
+    },
+    "service": {
+      "service": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663056893048
+        }
+      }
+    },
+    "opgebouwd": {
+      "opgebouwd": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663056939266
+        }
+      }
+    },
+    "niveau": {
+      "niveau": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664267421063
+        }
+      }
+    },
+    "verantwoordelijkheid": {
+      "verantwoordelijkheid": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663057016458
+        }
+      }
+    },
+    "wilt": {
+      "wilt": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663057166066
+        }
+      }
+    },
+    "filiaal": {
+      "filiaal": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663057191448
+        }
+      }
+    },
+    "activiteiten": {
+      "activiteiten": {
+        "customDictionary": {
+          "count": 8,
+          "lastUpdated": 1663663693924
+        }
+      }
+    },
+    "ondersteunen": {
+      "ondersteunen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663057611869
+        }
+      }
+    },
+    "strategisch": {
+      "strategisch": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664267419381
+        }
+      }
+    },
+    "bepaald": {
+      "bepaald": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663057694826
+        }
+      }
+    },
+    "betreden": {
+      "betreden": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663057722559
+        }
+      }
+    },
+    "Ecologisch": {
+      "Ecologisch": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663058689074
+        }
+      }
+    },
+    "shit": {
+      "shit": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663067939645
+        }
+      }
+    },
+    "Radians": {
+      "Radians": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663068112521
+        }
+      }
+    },
+    "degas": {
+      "degas": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663068361153
+        }
+      }
+    },
+    "various": {
+      "various": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663139260504
+        }
+      }
+    },
+    "expensive": {
+      "expensive": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663139641284
+        }
+      }
+    },
+    "swithing": {
+      "swithing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663139644975
+        }
+      }
+    },
+    "Context switching": {
+      "Context switching": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663139660450
+        }
+      }
+    },
+    "Threads": {
+      "Threads": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1663140305274
+        }
+      }
+    },
+    "Multi-threading": {
+      "Multi-threading": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663140057609
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663140416072
+        }
+      }
+    },
+    "requested": {
+      "requested": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663140238071
+        }
+      }
+    },
+    "exclusive": {
+      "exclusive": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663140248991
+        }
+      }
+    },
+    "Difficulties": {
+      "Difficulties": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663140342316
+        }
+      }
+    },
+    "Race conditions": {
+      "Race conditions": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663140519781
+        }
+      }
+    },
+    "data": {
+      "data": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663140578972
+        }
+      }
+    },
+    "interfaces": {
+      "interfaces": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663140755628
+        }
+      }
+    },
+    "driver": {
+      "driver": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1663140940473
+        }
+      }
+    },
+    "folders": {
+      "folders": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663140988705
+        }
+      }
+    },
+    "files": {
+      "files": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663140992598
+        }
+      }
+    },
+    "something": {
+      "something": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663140999437
+        }
+      }
+    },
+    "Definition": {
+      "Definition": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1664279692970
+        }
+      }
+    },
+    "stops": {
+      "stops": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663141243743
+        }
+      }
+    },
+    "layers": {
+      "layers": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663141514124
+        }
+      }
+    },
+    "modell": {
+      "modell": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663142590911
+        }
+      }
+    },
+    "model": {
+      "model": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663142592940
+        }
+      }
+    },
+    "Email": {
+      "Email": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663142666837
+        }
+      }
+    },
+    "Transport layer": {
+      "Transport layer": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1663143221138
+        }
+      }
+    },
+    "Dns": {
+      "Dns": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663142856421
+        }
+      }
+    },
+    "Resolution": {
+      "Resolution": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663142894636
+        }
+      }
+    },
+    "another": {
+      "another": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663143239815
+        }
+      }
+    },
+    "Tcp": {
+      "Tcp": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663143271645
+        }
+      }
+    },
+    "important": {
+      "important": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663143348511
+        }
+      }
+    },
+    "Forwarding": {
+      "Forwarding": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663143614798
+        }
+      }
+    },
+    "decision": {
+      "decision": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663143623471
+        }
+      }
+    },
+    "routing": {
+      "routing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663143635438
+        }
+      }
+    },
+    "messages": {
+      "messages": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663143684216
+        }
+      }
+    },
+    "decide": {
+      "decide": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663144355752
+        }
+      }
+    },
+    "distribute": {
+      "distribute": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663143755440
+        }
+      }
+    },
+    "distribution": {
+      "distribution": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663143957781
+        }
+      }
+    },
+    "algorithms": {
+      "algorithms": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663144351530
+        }
+      }
+    },
+    "cheapest": {
+      "cheapest": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663144392434
+        }
+      }
+    },
+    "Calculus": {
+      "Calculus": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663226146740
+        }
+      }
+    },
+    "difference": {
+      "difference": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663226552690
+        }
+      }
+    },
+    "Complement": {
+      "Complement": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663227870205
+        }
+      }
+    },
+    "opdrachten": {
+      "opdrachten": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663330969504
+        }
+      }
+    },
+    "good": {
+      "good": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663330986285
+        }
+      }
+    },
+    "assignments": {
+      "assignments": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663331067231
+        }
+      }
+    },
+    "submitted": {
+      "submitted": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663331073853
+        }
+      }
+    },
+    "ertussen": {
+      "ertussen": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663332232905
+        }
+      }
+    },
+    "komt": {
+      "komt": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663351012990
+        }
+      }
+    },
+    "uur": {
+      "uur": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663332267509
+        }
+      }
+    },
+    "afwisselen": {
+      "afwisselen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663332280979
+        }
+      }
+    },
+    "Planning": {
+      "Planning": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663332322590
+        }
+      }
+    },
+    "tasks": {
+      "tasks": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663332383617
+        }
+      }
+    },
+    "Priorities": {
+      "Priorities": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663332395434
+        }
+      }
+    },
+    "recall": {
+      "recall": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663333591865
+        }
+      }
+    },
+    "Actively": {
+      "Actively": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663333609462
+        }
+      }
+    },
+    "engaging": {
+      "engaging": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663333613561
+        }
+      }
+    },
+    "material": {
+      "material": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663333621375
+        }
+      }
+    },
+    "Plagiaat": {
+      "Plagiaat": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663335062841
+        }
+      }
+    },
+    "Cheating": {
+      "Cheating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663335067847
+        }
+      }
+    },
+    "documents": {
+      "documents": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663335078714
+        }
+      }
+    },
+    "results": {
+      "results": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663335115106
+        }
+      }
+    },
+    "veronderstel": {
+      "veronderstel": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663335131552
+        }
+      }
+    },
+    "enz": {
+      "enz": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663350951173
+        }
+      }
+    },
+    "aanpassen": {
+      "aanpassen": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1663351021390
+        }
+      }
+    },
+    "regelen": {
+      "regelen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663351032332
+        }
+      }
+    },
+    "maand": {
+      "maand": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663351041197
+        }
+      }
+    },
+    "blijft": {
+      "blijft": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663351051277
+        }
+      }
+    },
+    "vormen": {
+      "vormen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659145004
+        }
+      }
+    },
+    "Ruzie": {
+      "Ruzie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659156737
+        }
+      }
+    },
+    "opzetten": {
+      "opzetten": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659168449
+        }
+      }
+    },
+    "Performing": {
+      "Performing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659174675
+        }
+      }
+    },
+    "hoogst": {
+      "hoogst": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659324718
+        }
+      }
+    },
+    "Afscheid": {
+      "Afscheid": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659362995
+        }
+      }
+    },
+    "bijdraagt": {
+      "bijdraagt": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663661398008
+        }
+      }
+    },
+    "benodigd": {
+      "benodigd": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663661502124
+        }
+      }
+    },
+    "besturen": {
+      "besturen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663661479833
+        }
+      }
+    },
+    "primair": {
+      "primair": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663661512830
+        }
+      }
+    },
+    "Processen": {
+      "Processen": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1664263658930
+        }
+      }
+    },
+    "geautoriseerd": {
+      "geautoriseerd": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663661749978
+        }
+      }
+    },
+    "Tips": {
+      "Tips": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663663733497
+        }
+      }
+    },
+    "approaches": {
+      "approaches": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663672750984
+        }
+      }
+    },
+    "approach": {
+      "approach": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663672742673
+        }
+      }
+    },
+    "polynomial": {
+      "polynomial": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663672910898
+        }
+      }
+    },
+    "infinity": {
+      "infinity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663673615283
+        }
+      }
+    },
+    "\\infty": {
+      "\\infty": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663674768664
+        }
+      }
+    },
+    "Vertical": {
+      "Vertical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663675786770
+        }
+      }
+    },
+    "slow": {
+      "slow": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663748326873
+        }
+      }
+    },
+    "language": {
+      "language": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663748380103
+        }
+      }
+    },
+    "Transistor": {
+      "Transistor": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663748901209
+        }
+      }
+    },
+    "Combinational logic": {
+      "Combinational logic": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663749159853
+        }
+      }
+    },
+    "CPU": {
+      "CPU": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1663749264630
+        }
+      }
+    },
+    "program counter": {
+      "program counter": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663749331038
+        }
+      }
+    },
+    "Alumni": {
+      "Alumni": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663749386559
+        }
+      }
+    },
+    "Assembler": {
+      "Assembler": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663749453444
+        }
+      }
+    },
+    "powerset set": {
+      "powerset set": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663830724464
+        }
+      }
+    },
+    "partition set": {
+      "partition set": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663830734949
+        }
+      }
+    },
+    "Domain": {
+      "Domain": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663835664659
+        }
+      }
+    },
+    "migration": {
+      "migration": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663847280320
+        }
+      }
+    },
+    "uitvoeren": {
+      "uitvoeren": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663847868203
+        }
+      }
+    },
+    "Hub": {
+      "Hub": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663848032581
+        }
+      }
+    },
+    "Zorgverkeer": {
+      "Zorgverkeer": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663849110876
+        }
+      }
+    },
+    "processing": {
+      "processing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663849578959
+        }
+      }
+    },
+    "wortel": {
+      "wortel": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663916974257
+        }
+      }
+    },
+    "interval": {
+      "interval": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1664278025514
+        }
+      }
+    },
+    "domain": {
+      "domain": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663917324712
+        }
+      }
+    },
+    "Continuous": {
+      "Continuous": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663918723336
+        }
+      }
+    },
+    "continuous": {
+      "continuous": {
+        "customDictionary": {
+          "count": 14,
+          "lastUpdated": 1664523711344
+        }
+      }
+    },
+    "Yes": {
+      "Yes": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663918962841
+        }
+      }
+    },
+    "Domains": {
+      "Domains": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663918872504
+        }
+      }
+    },
+    "domains": {
+      "domains": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663918879459
+        }
+      }
+    },
+    "Kwaliteit": {
+      "Kwaliteit": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263081334
+        }
+      }
+    },
+    "management": {
+      "management": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263085313
+        }
+      }
+    },
+    "beheer": {
+      "beheer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263090487
+        }
+      }
+    },
+    "Compliance": {
+      "Compliance": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263095450
+        }
+      }
+    },
+    "Communicatie": {
+      "Communicatie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263099980
+        }
+      }
+    },
+    "Fusie": {
+      "Fusie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263129118
+        }
+      }
+    },
+    "Reorganisatie": {
+      "Reorganisatie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263134842
+        }
+      }
+    },
+    "regelgeving": {
+      "regelgeving": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263193958
+        }
+      }
+    },
+    "Demo": {
+      "Demo": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263435721
+        }
+      }
+    },
+    "Ipod": {
+      "Ipod": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263446936
+        }
+      }
+    },
+    "efficiency": {
+      "efficiency": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263646553
+        }
+      }
+    },
+    "besparen": {
+      "besparen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263650744
+        }
+      }
+    },
+    "klanten": {
+      "klanten": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263674356
+        }
+      }
+    },
+    "verbetering": {
+      "verbetering": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263680676
+        }
+      }
+    },
+    "light": {
+      "light": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664264477247
+        }
+      }
+    },
+    "DIKW piramide": {
+      "DIKW piramide": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664264622093
+        }
+      }
+    },
+    "Database": {
+      "Database": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664264639353
+        }
+      }
+    },
+    "vereenvoudigen": {
+      "vereenvoudigen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664266359688
+        }
+      }
+    },
+    "Data": {
+      "Data": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664266364041
+        }
+      }
+    },
+    "analyseren": {
+      "analyseren": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664266413368
+        }
+      }
+    },
+    "Average": {
+      "Average": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664266604261
+        }
+      }
+    },
+    "zit": {
+      "zit": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664267265308
+        }
+      }
+    },
+    "meetbaar": {
+      "meetbaar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664267282098
+        }
+      }
+    },
+    "Realistisch": {
+      "Realistisch": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664267306170
+        }
+      }
+    },
+    "previous": {
+      "previous": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664277608579
+        }
+      }
+    },
+    "apply": {
+      "apply": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664277613749
+        }
+      }
+    },
+    "exist": {
+      "exist": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664277718748
+        }
+      }
+    },
+    "composition": {
+      "composition": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664438038863
+        }
+      }
+    },
+    "themselves": {
+      "themselves": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664439812077
+        }
+      }
+    },
+    "antisymmetric": {
+      "antisymmetric": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664440418962
+        }
+      }
+    },
+    "relation": {
+      "relation": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664441050622
+        }
+      }
+    },
+    "zorgverkeer-user-pagina": {
+      "zorgverkeer-user-pagina": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664448109318
+        }
+      }
+    },
+    "postgress": {
+      "postgress": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664454995323
+        }
+      }
+    },
+    "authentication": {
+      "authentication": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664455296473
+        }
+      }
+    },
+    "native": {
+      "native": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664455308604
+        }
+      }
+    },
+    "public": {
+      "public": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664455381524
+        }
+      }
+    },
+    "key": {
+      "key": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664455385040
+        }
+      }
+    },
+    "DBeaver": {
+      "DBeaver": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664455530971
+        }
+      }
+    },
+    "zorgverkeer_development": {
+      "zorgverkeer_development": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664455583368
+        }
+      }
+    },
+    "Derivative": {
+      "Derivative": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664522532093
+        }
+      }
+    },
+    "\\frac": {
+      "\\frac": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664524567924
+        }
+      }
+    }
+  }
+}

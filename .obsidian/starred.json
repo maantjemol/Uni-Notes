@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Uni",
+      "path": "Uni.md"
+    },
+    {
+      "type": "file",
+      "title": "I & E Introductie",
+      "path": "I & E Introductie.md"
+    },
+    {
+      "type": "file",
+      "title": "Foundations of Computer Science",
+      "path": "Foundations of Computer Science.md"
+    },
+    {
+      "type": "file",
+      "title": "Essentials of computer systems",
+      "path": "Essentials of computer systems.md"
+    },
+    {
+      "type": "file",
+      "title": "Calculus",
+      "path": "Calculus.md"
+    },
+    {
+      "type": "file",
+      "title": "Studying and presenting",
+      "path": "Studying and presenting.md"
+    },
+    {
+      "type": "file",
+      "title": "Essentials of computer systems",
+      "path": "images/Essentials of computer systems.md"
+    }
+  ]
+}

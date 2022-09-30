@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#VWO",
+      "color": {
+        "a": 1,
+        "rgb": 2082815
+      }
+    },
+    {
+      "query": "tag:#Uni",
+      "color": {
+        "a": 1,
+        "rgb": 16634888
+      }
+    },
+    {
+      "query": "tag:#Examens",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Bakken",
+      "color": {
+        "a": 1,
+        "rgb": 16734464
+      }
+    },
+    {
+      "query": "tag:#Koken",
+      "color": {
+        "a": 1,
+        "rgb": 3797548
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.495604395604396,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 265,
+  "scale": 0.5226850355340587,
+  "close": true
+}
