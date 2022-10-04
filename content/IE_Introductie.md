@@ -55,6 +55,7 @@ perspectieven:
 	- proces samenstellen van Nike fzo
 	- Geen gesloten vragen, geen multiple choice
 	- Geef een voorbeeld van 3 KPI's op strategisch niveau bij de albert heijn
+	- Weet waar systemen die uit de opdracht komen over gaan
 ### Emails & Resources
 ### Important dates
 - Presentaties: 15 nov / 22 nov

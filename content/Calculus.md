@@ -19,11 +19,15 @@ title: "Calculus"
 - [[Continues functions]]
 - [[Graphing functions]]
 - [[Derivative]]
-
+	- [[Mean Value Theorem]]
+- [[Exponentials and Log]]
 ## Assignments
 ## Lectures
 ## Extras
 ### Grade breakdown
+
+
+
 ### Grading scale
 ### Tips
 ### Emails & Resources

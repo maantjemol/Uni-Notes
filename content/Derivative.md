@@ -3,9 +3,18 @@ title: "Derivative"
 ---
 
 # Derivative
-**course:**
 ## Definition
+**Show differential:**
 $$\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}=f'(x)$$
+![[Derivative 2022-10-04 13.22.30.excalidraw.svg|250]]
+
+
+### Example:
+![[Pasted image 20221004133800.png]]
+
+Compute:
+- Use tricks below: 
+
 We will focus on $C^{1}=[a,b]$  [[functions]], that means the function is [[derivative]] ones and it is continuous.
 
 **Common rules:**
