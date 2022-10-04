@@ -12,6 +12,7 @@ perspectieven:
 - [[Processen]]
 - [[Data]]
 - [[Reporting]]
+- [[Enterprise Information Systems]]
 - Modelen:
 	- [[Porter]]
 	- [[Waardeketen]]
@@ -35,6 +36,8 @@ perspectieven:
 
 **Opdracht:**
 - krijgen een technologie en beschrijven die uit verschillende invalshoeken, staat op brightspace
+- 7 - 8 slides 
+- 
 ### Grade breakdown
 55% tentamen:
 - openvragen
