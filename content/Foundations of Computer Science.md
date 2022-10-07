@@ -18,6 +18,8 @@ title: "Foundations of Computer Science"
 - [[Matrix multiplication]]
 - [[Types of relations]]
 - [[set operations]]
+- [[Closure]]
+- [[functions discr]]
 ## Assignments
 ## Lectures
 ## Extras

@@ -24,6 +24,11 @@ $$\ln(x) = \log_e{(x)}$$
 
 ![[Exponentials and Log 2022-10-04 14.01.50.excalidraw.svg|200]]
 
-
+## L' Hopital rule:
+Is possible when: $\left[\frac{0}{0}\right], \left[\frac{\infty}{\infty}\right]$
+![[Pasted image 20221007095931.png]]
+![[Pasted image 20221007100530.png]]
+## [[Limits]]:
+![[Pasted image 20221007095410.png]]
 ---
 Tags: #Concept #Uni 

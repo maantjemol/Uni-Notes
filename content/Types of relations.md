@@ -3,7 +3,24 @@ title: "Types of relations"
 ---
 
 # Types of relations
-**course:**
+![[Screenshot 2022-10-06 at 09.15.11.png]]
+
+![[Screenshot 2022-10-06 at 09.17.21.png|100]]
+- reflexive: A contains A
+- AntiSym: A contains B and B contain A is false 
+- Trans A contains B and B contains C = A contain C
+So, partial order 
+
+## Equivalence relations and class:
+Equivalence class: All elements x is in a relation with 
+![[Screenshot 2022-10-06 at 09.32.35.png|400]]
+R = {(1,1), (1,2), (2,1), (2,2), (3,3)}
+A = {1, 2, 3}
+[1] = {1, 2}
+[2] = {1, 2}
+[3] = {3}
+
+
 ## Partial order & Equality:
 ![[Pasted image 20220929100816.png]]
 
