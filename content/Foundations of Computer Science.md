@@ -19,8 +19,10 @@ title: "Foundations of Computer Science"
 - [[Types of relations]]
 - [[set operations]]
 - [[Closure]]
-- [[functions discr]]
-## Assignments
+- [[functions (discr)]]
+## Voorbeelden 
+[Oefen opgaven](http://liacs.leidenuniv.nl/~hoogeboom/focs/archief.html)
+
 ## Lectures
 ## Extras
 ### Grade breakdown

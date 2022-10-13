@@ -13,6 +13,7 @@ perspectieven:
 - [[Data]]
 - [[Reporting]]
 - [[Enterprise Information Systems]]
+- [[Rol van ICT]]
 - Modelen:
 	- [[Porter]]
 	- [[Waardeketen]]
@@ -24,6 +25,7 @@ perspectieven:
 	- [[DIKW piramide]]
 	- [[Management piramide]]
 	- [[SMART]]
+	- [[Strategic Alignment Model]]
 - [[organisatie]]
 ## Assignments
 - Brightspace test maken
@@ -56,6 +58,11 @@ perspectieven:
 	- Geen gesloten vragen, geen multiple choice
 	- Geef een voorbeeld van 3 KPI's op strategisch niveau bij de albert heijn
 	- Weet waar systemen die uit de opdracht komen over gaan
+	- Leg uit wat wordt bedoeld met integratie van Business en IT:
+		- Business en IT waren vroeger 2 verschillende dingen, deze worden nu samen gevoegd tot.
+	- Leg uit wat het belang is van het integreren van IT en Business in [[organisatie]]s. 
+		- Het belang is dat binnen een [[organisatie]] IT en Business samen kunnen werken om processes efficient en effectief kunnen zijn.
+	- Toelichting is heel belangrijk.
 ### Emails & Resources
 ### Important dates
 - Presentaties: 15 nov / 22 nov

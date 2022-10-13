@@ -11,6 +11,9 @@ title: "Types of relations"
 - Trans A contains B and B contains C = A contain C
 So, partial order 
 
+## Example:
+![[Pasted image 20221007114716.png]]
+
 ## Equivalence relations and class:
 Equivalence class: All elements x is in a relation with 
 ![[Screenshot 2022-10-06 at 09.32.35.png|400]]

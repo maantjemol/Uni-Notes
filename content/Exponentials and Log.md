@@ -12,7 +12,7 @@ a^{x-y} = \frac{a^x}{a^y}\\
 (ab)^x = a^xb^x
 \end{align}$$
 $$\begin{align} 
-a^{y=x} \ <=> \ \log_{a}x = y\\
+a^{y}=x \ <=> \ \log_{a}x = y\\
 \log_a(xy)=\log_a(x)+\log_a(y)\\
 \log_a\left(\frac{x}{y}\right)= \log_a(x)-\log_a(y)\\
 \log_ax^{r}= r\log_a(x)

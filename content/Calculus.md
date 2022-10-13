@@ -21,6 +21,7 @@ title: "Calculus"
 - [[Derivative]]
 	- [[Mean Value Theorem]]
 - [[Exponentials and Log]]
+- [[Extremes]]
 ## Assignments
 ## Lectures
 ## Extras
