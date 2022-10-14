@@ -1,8 +1,6 @@
 ---
 title: "I & E Introductie"
 ---
-
-# I & E Introductie
 De combi tussen informatica en economie
 perspectieven:
 - Technisch perspectief

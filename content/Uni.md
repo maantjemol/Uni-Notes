@@ -1,8 +1,6 @@
 ---
 title: "Uni"
 ---
-
-# Uni
 ## Courses:
 - [[IE_Introductie]]
 - [[Foundations of Computer Science]]

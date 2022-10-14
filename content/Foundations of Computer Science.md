@@ -2,8 +2,6 @@
 title: "Foundations of Computer Science"
 ---
 
-# Foundations of Computer Science
-
 ## Notes & Ideas
 - [[set]]
 - [[pairs]]
@@ -20,6 +18,7 @@ title: "Foundations of Computer Science"
 - [[set operations]]
 - [[Closure]]
 - [[functions (discr)]]
+- [[Graph Theory]]
 ## Voorbeelden 
 [Oefen opgaven](http://liacs.leidenuniv.nl/~hoogeboom/focs/archief.html)
 
@@ -29,10 +28,12 @@ title: "Foundations of Computer Science"
 **Midterm:** 27 oct
 - 3 hours 
 - 50% of finale grade 
+- 1ste deel
 
 **Final exam:** 13 jan 
 - 3 hours 
 - 50% of finale grade
+- 2de deel, eerste deel kan je weer vergeten :)
 
 **Retake:** march 2022
 - 3 hours 

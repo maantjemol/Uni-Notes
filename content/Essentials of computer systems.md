@@ -1,8 +1,6 @@
 ---
 title: "Essentials of computing systems"
 ---
-# Essentials of computing systems
-
 ## Notes & Ideas
 - [[computing system]]
 - [[abstraction]]

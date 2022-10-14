@@ -1,14 +1,6 @@
 ---
 title: "Domain and range"
 ---
-
-# Domain and range
-**course:**
-```dataviewjs
-	dv.list(["dsfa"]); 
-
-```
-
 ## Definition
 ![[Pasted image 20220922103407.png]]
 ## Domain:

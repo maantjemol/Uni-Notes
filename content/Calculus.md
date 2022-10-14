@@ -2,8 +2,6 @@
 title: "Calculus"
 ---
 
-# Calculus
-
 ## Notes & Ideas
 - [[asymptote]]
 - [[factorization]]
@@ -12,7 +10,6 @@ title: "Calculus"
 - [[Palinomial]]
 - [[Angles]]
 - [[Continuity]]
-- [[Domain and range]]
 - [[intigers]]
 - [[root]]
 - [[Radians]]
@@ -22,6 +19,8 @@ title: "Calculus"
 	- [[Mean Value Theorem]]
 - [[Exponentials and Log]]
 - [[Extremes]]
+- [[Critical point]]
+- [[Drawing functions]]
 ## Assignments
 ## Lectures
 ## Extras

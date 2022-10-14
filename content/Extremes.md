@@ -1,8 +1,6 @@
 ---
 title: Absolute extremes
 ---
-
-# Extremes
 ## Absolute Maximum / Minimum
 ![[Pasted image 20221011133430.png]]
 

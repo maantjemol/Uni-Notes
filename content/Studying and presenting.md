@@ -2,8 +2,6 @@
 title: "Studying and presenting"
 ---
 
-# Studying and presenting
-
 ## Notes & Ideas
 - [[Learing and study strategies]]
 - [[Academic Fraud]]
