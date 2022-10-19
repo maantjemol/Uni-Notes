@@ -11,6 +11,7 @@ title: "Essentials of computing systems"
 - [[computer networks]] 
 ## Assignments
 [Groepsopdracht](https://liacs.leidenuniv.nl/~basoldh/education/essencs22/)
+[[Groepopdracht idee]]
 ## Lectures
 **Upcoming:**
 We will learn and see how abstraction an [[protocols]] permeate [[computing system]]s.

@@ -19,6 +19,8 @@ title: "Foundations of Computer Science"
 - [[Closure]]
 - [[functions (discr)]]
 - [[Graph Theory]]
+
+
 ## Voorbeelden 
 [Oefen opgaven](http://liacs.leidenuniv.nl/~hoogeboom/focs/archief.html)
 

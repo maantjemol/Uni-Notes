@@ -21,7 +21,11 @@ title: "Calculus"
 - [[Extremes]]
 - [[Critical point]]
 - [[Drawing functions]]
+- [[Taylor Polynomials]]
+
 ## Assignments
+- Make sure you're registered 
+- No graphical calculator 
 ## Lectures
 ## Extras
 ### Grade breakdown
