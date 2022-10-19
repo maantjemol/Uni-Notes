@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "8fdaa6ec66650beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d04e1201fdc59d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c7798bd22c1c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taylor Polynomials.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ddff9bb6b0a070b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essentials of computer systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd46323dad1806fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groepopdracht idee.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b45ae0bd111fa3a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3fe94d80fb560af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7210def12f63664b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e06899bd2c029fbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81bfe00e1592e096",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "5ca913baf2967eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f682ce8bd1b7a31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b0a5ff931cbaf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Groepopdracht idee.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "644a3248195928c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Groepopdracht idee.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a472125213997e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627d61902abc429f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "types-market-structure.png.webp"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "cd46323dad1806fc",
+  "lastOpenFiles": [
+    "Taylor Polynomials.md",
+    "Calculus.md",
+    "Groepopdracht idee.md",
+    "Essentials of computer systems.md",
+    "Types of relations.md",
+    "Foundations of Computer Science.md",
+    "Graph Theory.md",
+    "Uni.md",
+    "TestNotitie.md",
+    "IE_Introductie.md"
+  ]
+}
