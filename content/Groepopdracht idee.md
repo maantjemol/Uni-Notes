@@ -3,7 +3,7 @@ title: Groepopdracht idee
 ---
 
 ## Implementiation:
-*3 mensen*
+*3 mensen: Elliot, Emma, Manuel*
 - Email servers
 - Https server 
 - Https client
@@ -24,6 +24,7 @@ Een paper schrijven op hoe je een service als gmail of yahoo mail zou opzetten, 
 - You know how HTTP works with persistent and non-persistent connections.
 - You know what HTTP cookies and web caching are.
 - SSL encription 
+- You know what HTTPs is and what messages it uses. 
 
 ### E-mail & DNS (2.3–2.4)
 *3 mensen*
@@ -31,4 +32,4 @@ Een paper schrijven op hoe je een service als gmail of yahoo mail zou opzetten, 
 - You know the RFC5322 mail message format (only from, to and subject) and the two common mail access protocols (HTTP, IMAP).
 - You know what service DNS provides and how it works.
 - You know what DNS records and DNS message format are.
-- DNS Secure 
+- You know what service DNS Secure provides and how it works. 
