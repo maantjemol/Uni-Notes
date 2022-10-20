@@ -13,4 +13,15 @@ Walking along a path in a graph. The length of the path is the number of vertice
 ![[Pasted image 20221020092200.png]]
 > [!INFO]
 > Suppose u, v ∈ V(G) and there is a path from u to v in which vertex x occurs twice: xi = xj = x. Then we can omit the intermediate vertices (and corresponding edges).
+> ![[Pasted image 20221020094205.png]]
 
+## Distance:
+> [!INFO]
+> The **distance** between two nodes **u** and **v** is the length (nr. of edges) of a shortest path between **u** and **v**.
+
+Notation: *d(u,v)*
+d(u,v) = 0 iff u = v
+d(u,v) = d(v,u)
+
+## Bridge and cutpoint:
+![[Pasted image 20221020094302.png]]
