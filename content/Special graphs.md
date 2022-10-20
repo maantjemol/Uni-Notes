@@ -18,13 +18,13 @@ title: Special graphs
 ![[Pasted image 20221020104341.png]]
 
 ## Bipartite graph:
->[! abstract] Definition
+>[!abstract] Definition
 >
 >A graph G is called bipartite if the vertices can be split in two disjoint subsets $V_1$ and $V_2$ so that all edges run between $V_1$ and $V_2$.
 
 A graph G is **2−colorable** if the graph’s vertices can be colored with two colors in such a way that adjacent vertices have a different color.
 ![[Pasted image 20221020104531.png]]
->[! abstract] Definition
+>[!abstract] Definition
 >
 >Given a graph G = (V, E). The following statements are equivalent: 
 >(1) *G is bipartite* 
