@@ -6,8 +6,6 @@ Walking along a path in a graph. The length of the path is the number of vertice
 **Trail:** a path where you only visit edges once.
 **Simple path:** a path where you only visit distinct vertices.
 
-- [[Hamiltonian cycle]]
-
 ## Types of paths:
 *Closed path*: $V_{0}=V_{n}$ it's just a loop 
 *Circuit*: Closed path where you only visit edges once(closed trail) 

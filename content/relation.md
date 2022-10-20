@@ -1,11 +1,9 @@
 ---
 title: "relation"
 ---
-
-# Relation
-**course:**
-## Definition 
-A relation is a subset of a Cartesian product. 
+>[!abstract] Definition
+>
+>A relation is a subset of a Cartesian product. 
 ![[Pasted image 20220922101358.png|200]]
 
 ## Different relations:

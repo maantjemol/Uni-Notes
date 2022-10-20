@@ -1,8 +1,6 @@
 ---
 title: functions
 ---
-
-# Functions
 ## Definition![[Screenshot 2022-10-06 at 09.46.29.png]]
 - [[Graph of func]]
 - [[Composition]]
