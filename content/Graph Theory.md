@@ -7,6 +7,7 @@ title: Graph Theory
 - [[Subgraphs]]
 - [[Removing vert and edges]]
 - [[Paths]]
+- [[Graph centrality]]
 
 Graphs consist of nodes and edges. Edges are the connections between nodes. Undirected graphs dont have a direction, directed graphs do. A graph is basically a special type of [[relation]]. 
 
