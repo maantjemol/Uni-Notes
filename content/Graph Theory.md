@@ -4,6 +4,9 @@ title: Graph Theory
 - [[Directed Graphs]]
 - [[Undirected  Graphs]]
 - [[Handshaking lemma]]
+- [[Subgraphs]]
+- [[Removing vert and edges]]
+- [[Paths]]
 
 Graphs consist of nodes and edges. Edges are the connections between nodes. Undirected graphs dont have a direction, directed graphs do. A graph is basically a special type of [[relation]]. 
 
@@ -15,7 +18,8 @@ The definition directly implies that it is about undirected graphs: edges have n
 
 ## Basic concepts:
 ![[Pasted image 20221013104801.png]]
-
+## Adjacency matrix:
+![[Pasted image 20221020090718.png]]
 
 ---
 Tags: #Concept #Uni 
