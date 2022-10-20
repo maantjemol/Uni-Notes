@@ -19,9 +19,6 @@ title: "Foundations of Computer Science"
 - [[Closure]]
 - [[functions (discr)]]
 - [[Graph Theory]]
-> [!FAQ] Are callouts foldable?
->
-> Yes! In a foldable callout, the contents are hidden until it is expanded.
 
 ## Voorbeelden 
 [Oefen opgaven](http://liacs.leidenuniv.nl/~hoogeboom/focs/archief.html)
