@@ -12,7 +12,7 @@ title: "Foundations of Computer Science"
 - [[relation]]
 - [[Set algebra]]
 - [[Counting sets]]
-- [[Visualizing relationships & compositions]]
+- [[Visualizing relationships and compositions]]
 - [[Matrix multiplication]]
 - [[Types of relations]]
 - [[set operations]]
