@@ -1,0 +1,1511 @@
+{
+  "strategy": "english-only",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt\n/nl_50k.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "root": {
+      "root": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1664455369039
+        },
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664455367512
+        }
+      }
+    },
+    "eventuele": {
+      "eventuele": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663919217967
+        }
+      }
+    },
+    "functions": {
+      "functions": {
+        "internalLink": {
+          "count": 9,
+          "lastUpdated": 1666093800480
+        }
+      }
+    },
+    "computer": {
+      "computer": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1663747388396
+        }
+      }
+    },
+    "electronic": {
+      "electronic": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663747453869
+        }
+      }
+    },
+    "abstraction": {
+      "abstraction": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1663749128216
+        }
+      }
+    },
+    "processes": {
+      "processes": {
+        "customDictionary": {
+          "count": 13,
+          "lastUpdated": 1665472408537
+        }
+      }
+    },
+    "things": {
+      "things": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663747682641
+        }
+      }
+    },
+    "switch": {
+      "switch": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663747455518
+        }
+      }
+    },
+    "memory": {
+      "memory": {
+        "internalLink": {
+          "count": 12,
+          "lastUpdated": 1663749641420
+        }
+      }
+    },
+    "organisatie": {
+      "organisatie": {
+        "internalLink": {
+          "count": 11,
+          "lastUpdated": 1665476485152
+        }
+      }
+    },
+    "Strategie": {
+      "Strategie": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1665476477638
+        }
+      }
+    },
+    "leadership": {
+      "leadership": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1665475396729
+        }
+      }
+    },
+    "niveau": {
+      "niveau": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664267421063
+        }
+      }
+    },
+    "activiteiten": {
+      "activiteiten": {
+        "customDictionary": {
+          "count": 8,
+          "lastUpdated": 1663663693924
+        }
+      }
+    },
+    "ondersteunen": {
+      "ondersteunen": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1665476084274
+        }
+      }
+    },
+    "strategisch": {
+      "strategisch": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664267419381
+        }
+      }
+    },
+    "Definition": {
+      "Definition": {
+        "customDictionary": {
+          "count": 10,
+          "lastUpdated": 1666252347534
+        }
+      }
+    },
+    "Dns": {
+      "Dns": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1666173568924
+        }
+      }
+    },
+    "vormen": {
+      "vormen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659145004
+        }
+      }
+    },
+    "Ruzie": {
+      "Ruzie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659156737
+        }
+      }
+    },
+    "opzetten": {
+      "opzetten": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659168449
+        }
+      }
+    },
+    "Performing": {
+      "Performing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659174675
+        }
+      }
+    },
+    "hoogst": {
+      "hoogst": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659324718
+        }
+      }
+    },
+    "Afscheid": {
+      "Afscheid": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663659362995
+        }
+      }
+    },
+    "bijdraagt": {
+      "bijdraagt": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663661398008
+        }
+      }
+    },
+    "benodigd": {
+      "benodigd": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663661502124
+        }
+      }
+    },
+    "besturen": {
+      "besturen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663661479833
+        }
+      }
+    },
+    "primair": {
+      "primair": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663661512830
+        }
+      }
+    },
+    "Processen": {
+      "Processen": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1664871359813
+        }
+      }
+    },
+    "geautoriseerd": {
+      "geautoriseerd": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663661749978
+        }
+      }
+    },
+    "Tips": {
+      "Tips": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663663733497
+        }
+      }
+    },
+    "approaches": {
+      "approaches": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663672750984
+        }
+      }
+    },
+    "approach": {
+      "approach": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663672742673
+        }
+      }
+    },
+    "polynomial": {
+      "polynomial": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663672910898
+        }
+      }
+    },
+    "infinity": {
+      "infinity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663673615283
+        }
+      }
+    },
+    "\\infty": {
+      "\\infty": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665129371223
+        }
+      }
+    },
+    "Vertical": {
+      "Vertical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663675786770
+        }
+      }
+    },
+    "slow": {
+      "slow": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663748326873
+        }
+      }
+    },
+    "language": {
+      "language": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663748380103
+        }
+      }
+    },
+    "Transistor": {
+      "Transistor": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663748901209
+        }
+      }
+    },
+    "Combinational logic": {
+      "Combinational logic": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663749159853
+        }
+      }
+    },
+    "CPU": {
+      "CPU": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1663749264630
+        }
+      }
+    },
+    "program counter": {
+      "program counter": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663749331038
+        }
+      }
+    },
+    "Alumni": {
+      "Alumni": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663749386559
+        }
+      }
+    },
+    "Assembler": {
+      "Assembler": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663749453444
+        }
+      }
+    },
+    "powerset set": {
+      "powerset set": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663830724464
+        }
+      }
+    },
+    "partition set": {
+      "partition set": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663830734949
+        }
+      }
+    },
+    "Domain": {
+      "Domain": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663835664659
+        }
+      }
+    },
+    "migration": {
+      "migration": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663847280320
+        }
+      }
+    },
+    "uitvoeren": {
+      "uitvoeren": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663847868203
+        }
+      }
+    },
+    "Hub": {
+      "Hub": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663848032581
+        }
+      }
+    },
+    "Zorgverkeer": {
+      "Zorgverkeer": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663849110876
+        }
+      }
+    },
+    "processing": {
+      "processing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663849578959
+        }
+      }
+    },
+    "wortel": {
+      "wortel": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663916974257
+        }
+      }
+    },
+    "interval": {
+      "interval": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1664278025514
+        }
+      }
+    },
+    "domain": {
+      "domain": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663917324712
+        }
+      }
+    },
+    "Continuous": {
+      "Continuous": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663918723336
+        }
+      }
+    },
+    "continuous": {
+      "continuous": {
+        "customDictionary": {
+          "count": 15,
+          "lastUpdated": 1664883873125
+        }
+      }
+    },
+    "Yes": {
+      "Yes": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1663918962841
+        }
+      }
+    },
+    "Domains": {
+      "Domains": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663918872504
+        }
+      }
+    },
+    "domains": {
+      "domains": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663918879459
+        }
+      }
+    },
+    "Kwaliteit": {
+      "Kwaliteit": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263081334
+        }
+      }
+    },
+    "management": {
+      "management": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664870967390
+        }
+      }
+    },
+    "beheer": {
+      "beheer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263090487
+        }
+      }
+    },
+    "Compliance": {
+      "Compliance": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263095450
+        }
+      }
+    },
+    "Communicatie": {
+      "Communicatie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263099980
+        }
+      }
+    },
+    "Fusie": {
+      "Fusie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263129118
+        }
+      }
+    },
+    "Reorganisatie": {
+      "Reorganisatie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263134842
+        }
+      }
+    },
+    "regelgeving": {
+      "regelgeving": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263193958
+        }
+      }
+    },
+    "Demo": {
+      "Demo": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263435721
+        }
+      }
+    },
+    "Ipod": {
+      "Ipod": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263446936
+        }
+      }
+    },
+    "efficiency": {
+      "efficiency": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263646553
+        }
+      }
+    },
+    "besparen": {
+      "besparen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263650744
+        }
+      }
+    },
+    "klanten": {
+      "klanten": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263674356
+        }
+      }
+    },
+    "verbetering": {
+      "verbetering": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664263680676
+        }
+      }
+    },
+    "light": {
+      "light": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664264477247
+        }
+      }
+    },
+    "DIKW piramide": {
+      "DIKW piramide": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664264622093
+        }
+      }
+    },
+    "Database": {
+      "Database": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664868811263
+        }
+      }
+    },
+    "vereenvoudigen": {
+      "vereenvoudigen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664266359688
+        }
+      }
+    },
+    "Data": {
+      "Data": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664266364041
+        }
+      }
+    },
+    "analyseren": {
+      "analyseren": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664266413368
+        }
+      }
+    },
+    "Average": {
+      "Average": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664266604261
+        }
+      }
+    },
+    "zit": {
+      "zit": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664267265308
+        }
+      }
+    },
+    "meetbaar": {
+      "meetbaar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664267282098
+        }
+      }
+    },
+    "Realistisch": {
+      "Realistisch": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664267306170
+        }
+      }
+    },
+    "previous": {
+      "previous": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664277608579
+        }
+      }
+    },
+    "apply": {
+      "apply": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664277613749
+        }
+      }
+    },
+    "exist": {
+      "exist": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664277718748
+        }
+      }
+    },
+    "composition": {
+      "composition": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1665645342931
+        }
+      }
+    },
+    "themselves": {
+      "themselves": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664439812077
+        }
+      }
+    },
+    "antisymmetric": {
+      "antisymmetric": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664440418962
+        }
+      }
+    },
+    "relation": {
+      "relation": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1665650551421
+        }
+      }
+    },
+    "zorgverkeer-user-pagina": {
+      "zorgverkeer-user-pagina": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664448109318
+        }
+      }
+    },
+    "postgress": {
+      "postgress": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664454995323
+        }
+      }
+    },
+    "authentication": {
+      "authentication": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664455296473
+        }
+      }
+    },
+    "native": {
+      "native": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664455308604
+        }
+      }
+    },
+    "public": {
+      "public": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664455381524
+        }
+      }
+    },
+    "key": {
+      "key": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664455385040
+        }
+      }
+    },
+    "DBeaver": {
+      "DBeaver": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664455530971
+        }
+      }
+    },
+    "zorgverkeer_development": {
+      "zorgverkeer_development": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664455583368
+        }
+      }
+    },
+    "Derivative": {
+      "Derivative": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1665733557631
+        }
+      }
+    },
+    "\\frac": {
+      "\\frac": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664524567924
+        }
+      }
+    },
+    "I & E Introductie": {
+      "I & E Introductie": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664573144979
+        }
+      }
+    },
+    "Essentials of computer systems": {
+      "Essentials of computer systems": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664573156368
+        }
+      }
+    },
+    "slides": {
+      "slides": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664867432582
+        }
+      }
+    },
+    "Html": {
+      "Html": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868761904
+        }
+      }
+    },
+    "Css": {
+      "Css": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868766549
+        }
+      }
+    },
+    "Javascript": {
+      "Javascript": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868771813
+        }
+      }
+    },
+    "Photoshop": {
+      "Photoshop": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868790679
+        }
+      }
+    },
+    "Node": {
+      "Node": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868833543
+        }
+      }
+    },
+    "Cookies": {
+      "Cookies": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868843926
+        }
+      }
+    },
+    "Http": {
+      "Http": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868852106
+        }
+      }
+    },
+    "Provider": {
+      "Provider": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868862643
+        }
+      }
+    },
+    "Opslag": {
+      "Opslag": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868867567
+        }
+      }
+    },
+    "Api": {
+      "Api": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868895126
+        }
+      }
+    },
+    "server": {
+      "server": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1666173526243
+        }
+      }
+    },
+    "Intergratie": {
+      "Intergratie": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1665476453061
+        }
+      }
+    },
+    "Distributie": {
+      "Distributie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868975518
+        }
+      }
+    },
+    "Filmpjes": {
+      "Filmpjes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664868999114
+        }
+      }
+    },
+    "Plaatjes": {
+      "Plaatjes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664869001874
+        }
+      }
+    },
+    "Contact": {
+      "Contact": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664869013851
+        }
+      }
+    },
+    "Vacatures": {
+      "Vacatures": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664869021021
+        }
+      }
+    },
+    "maps": {
+      "maps": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664869041819
+        }
+      }
+    },
+    "codes": {
+      "codes": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664869062324
+        }
+      }
+    },
+    "technologies": {
+      "technologies": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664871167132
+        }
+      }
+    },
+    "integreren": {
+      "integreren": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1665476089468
+        }
+      }
+    },
+    "technologie": {
+      "technologie": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1664871077658
+        }
+      }
+    },
+    "platform": {
+      "platform": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664871172730
+        }
+      }
+    },
+    "klantenrelaltiebeheer": {
+      "klantenrelaltiebeheer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664871330412
+        }
+      }
+    },
+    "doen": {
+      "doen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664871332384
+        }
+      }
+    },
+    "miljoen": {
+      "miljoen": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664871442728
+        }
+      }
+    },
+    "implement": {
+      "implement": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664871511725
+        }
+      }
+    },
+    "Customer": {
+      "Customer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664872094008
+        }
+      }
+    },
+    "contactgegevens": {
+      "contactgegevens": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664872342488
+        }
+      }
+    },
+    "differential": {
+      "differential": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1665129395853
+        }
+      }
+    },
+    "Example": {
+      "Example": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1664884226184
+        }
+      }
+    },
+    "false": {
+      "false": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665040730625
+        }
+      }
+    },
+    "order": {
+      "order": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665040776398
+        }
+      }
+    },
+    "relations": {
+      "relations": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665040960286
+        }
+      }
+    },
+    "Equivalence": {
+      "Equivalence": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665041373938
+        }
+      }
+    },
+    "with": {
+      "with": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665041388504
+        }
+      }
+    },
+    "Identify": {
+      "Identify": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665043965732
+        }
+      }
+    },
+    "Identity": {
+      "Identity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665044016117
+        }
+      }
+    },
+    "Terminology": {
+      "Terminology": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665044226244
+        }
+      }
+    },
+    "increasing": {
+      "increasing": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1665127534530
+        }
+      }
+    },
+    "increasingly": {
+      "increasingly": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665126703951
+        }
+      }
+    },
+    "-\\infty": {
+      "-\\infty": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665127571152
+        }
+      }
+    },
+    "Limits": {
+      "Limits": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1665129247433
+        }
+      }
+    },
+    "Voorbeelden": {
+      "Voorbeelden": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665136258344
+        }
+      }
+    },
+    "gepland": {
+      "gepland": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665475472890
+        }
+      }
+    },
+    "klantenservice": {
+      "klantenservice": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665475605722
+        }
+      }
+    },
+    "toegevoegd": {
+      "toegevoegd": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665475613901
+        }
+      }
+    },
+    "product": {
+      "product": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665475623169
+        }
+      }
+    },
+    "bedrijfsstrategie": {
+      "bedrijfsstrategie": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665475887590
+        }
+      }
+    },
+    "Geintergreerd": {
+      "Geintergreerd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665475938072
+        }
+      }
+    },
+    "Alignment": {
+      "Alignment": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1665476350962
+        }
+      }
+    },
+    "strategy": {
+      "strategy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665476509931
+        }
+      }
+    },
+    "strategie": {
+      "strategie": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1665476600809
+        }
+      }
+    },
+    "structuur": {
+      "structuur": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665476633061
+        }
+      }
+    },
+    "Maximum": {
+      "Maximum": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665488083063
+        }
+      }
+    },
+    "maximum": {
+      "maximum": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665488391150
+        }
+      }
+    },
+    "defined": {
+      "defined": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665488445927
+        }
+      }
+    },
+    "Composition": {
+      "Composition": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665645158342
+        }
+      }
+    },
+    "identity": {
+      "identity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665645348934
+        }
+      }
+    },
+    "Sequence": {
+      "Sequence": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665648711240
+        }
+      }
+    },
+    "graph": {
+      "graph": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665650541383
+        }
+      }
+    },
+    "basically": {
+      "basically": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665650546211
+        }
+      }
+    },
+    "represent": {
+      "represent": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665650765916
+        }
+      }
+    },
+    "down": {
+      "down": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665731853858
+        }
+      }
+    },
+    "asymptote": {
+      "asymptote": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1665734831610
+        }
+      }
+    },
+    "registered": {
+      "registered": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666091899859
+        }
+      }
+    },
+    "calculator": {
+      "calculator": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666091908258
+        }
+      }
+    },
+    "approximate": {
+      "approximate": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666093819525
+        }
+      }
+    },
+    "secure": {
+      "secure": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666173457590
+        }
+      }
+    },
+    "servers": {
+      "servers": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1666173705560
+        }
+      }
+    },
+    "Secure": {
+      "Secure": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666174128277
+        }
+      }
+    },
+    "encryptie": {
+      "encryptie": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666174151253
+        }
+      }
+    },
+    "once": {
+      "once": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1666250620927
+        }
+      }
+    },
+    "distinct": {
+      "distinct": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666250409094
+        }
+      }
+    },
+    "verticies": {
+      "verticies": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666250668322
+        }
+      }
+    },
+    "loop": {
+      "loop": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666250580488
+        }
+      }
+    }
+  }
+}
