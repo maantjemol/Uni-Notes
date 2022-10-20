@@ -13,9 +13,12 @@ title: "partition set"
 ![[Screenshot 2022-09-22 at 09.21.30.png]]
 
 ### Example:
-partition of S: **some disjoint nonempty subsets that together** **are S.** 
-{ {1,4}, {2}, {3,5,6} } is a partition of { 1,2,3,4,5,6 }
-*There is no overlap between them*
+>[!abstract] Definition
+>
+>partition of S: **some disjoint nonempty subsets that together** **are S.** 
+>{ {1,4}, {2}, {3,5,6} } is a partition of { 1,2,3,4,5,6 }
+>*There is no overlap between them*
+
 
 ![[Screenshot 2022-09-22 at 09.30.14.png]]
 ## Backlinks

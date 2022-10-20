@@ -1,10 +1,6 @@
 ---
 title: "pairs"
 ---
-
-# pairs
-**course:**
-## Pairs
 A set of all ordered pairs [0, 1], [2,5],[1,3] with x is part of A and y is part of B
 ![[Pasted image 20220922093330.png|250]]
 
