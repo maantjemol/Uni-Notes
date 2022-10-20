@@ -7,5 +7,3 @@ title: "Uni"
 - [[Calculus]]
 - [[Studying and presenting]]
 - [[Essentials of computer systems]]
----
-Tags:  #Uni
