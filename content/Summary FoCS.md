@@ -90,6 +90,9 @@ Counting with finite sets:
 **Equivalence relation**: symmetric, transative and reflexive 
 **Example:** [[Types of relations#Example:]]
 
+## Anti Symmetric:
+![[Pasted image 20221022184141.png]]
+
 ### P-closure:
 Add as little as possible to a [[relation]] so it becomes transitive or any other type of relation.¥
 
