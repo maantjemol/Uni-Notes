@@ -143,8 +143,8 @@ $f(x) = x$
 - if $e \in E$ then $G - e$ is the graph resulting when removing an edge.
 
 ### Subgraphs: [[Subgraphs]]
-**[[Subgraphs]]**: subsets but with graphs. All edges and vertecies in the subgraph are also in the original graph. *see orange in figure below*
-**Induced subgraph**: A subgraph that includes all edges of the original graph. *see green in figure below*
+**[[Subgraphs]]**: subsets but with graphs. All edges and vertecies in the subgraph are also in the original graph. *See orange in figure below*
+**Induced subgraph**: A subgraph that includes all edges of the original graph. *See green in figure below*
 ![[Pasted image 20221020091058.png]]
 
 ### Paths: [[Paths]]

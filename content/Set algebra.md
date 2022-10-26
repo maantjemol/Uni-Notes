@@ -8,6 +8,42 @@ title: "Set algebra"
 A [[Calculus]] for sets.
 ![[Pasted image 20220915094639.png]]
 
+>[!abstract] Associativity (Associa)
+>
+>$$(A\cup B) \cup C = (B\cup C) \cup A$$
+
+>[!abstract] Commutativity (Comm)
+>
+>$$A \cup B = B \cup A$$
+
+>[!abstract] Idempotency
+>
+>$$A \cup A = A$$
+
+>[!abstract] Distributivity
+>
+>$$A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$$
+
+>[!abstract] Zero element
+>
+> $$A \cup \varnothing = A$$
+
+>[!abstract] Unit element
+>
+>$$A \cup U = U$$
+
+>[!abstract] Double complement
+>
+>$$(A^c)^c=A$$
+
+>[!abstract] Complement 
+>
+>$$A \cap A^{c}= \varnothing $$
+
+>[!abstract] De Morgan
+>
+>$$(A \cup B)^c = A^c \cap B^c$$
+
 **Principle of Duality**
 When we perform duality, then the union will be replaced by intersection, or intersection will be replaced by the union. The universal will also be replaced by null, or null will be replaced by universal.
 

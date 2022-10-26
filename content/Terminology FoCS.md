@@ -1,4 +1,26 @@
-## Graphs:
+## Graphs 
+>[!abstract] Multigraphs
+>
+>Graph with multiple edges from the same 2 vertices
+
+>[!abstract] Deg
+>
+>The sum of the degrees of the vertices of a graph G is equal to twice the number of edges in G. 
+>
+>A vertex is said to be even or odd according as its degree is an even or an odd number. Thus, A and D are even vertices whereas B and C are odd vertices.
+
+>[!abstract] Distance and Diameter
+>
+>Consider a connected graph G. The distance between vertices u and v in G, written d(u, v), is the length of the shortest path between u and v. The diameter of G, written diam(G), is the maximum distance between any two points in G
+
+>[!abstract] Cutpoint
+>
+>A cutpoint is a vertex on a graph that when removed from the graph splits the graph in 2 separate graphs 
+
+>[!abstract] Bridge
+>
+>A bridge is an edge e that when removed from the graph splits the graph in 2 separate graphs 
+
 >[!abstract] Definition: Walk
 >
 >**Walk**: An $x\to y$ walk is a sequence
@@ -11,52 +33,75 @@
 >**Circuit**: A closed trail 
 >![[Pasted image 20221022192136.png]]
 
->[!abstract] Definition: Path
+>[!abstract] Traversable trail
+>
+>A path that which includes all vertices and uses each edge exactly once.
+
+>[!abstract] Eularian trail
+>
+>A closed traversable trail
+
+>[!abstract] Eularian Graph
+>
+>A graph where there exists a eularian trail.
+
+>[!abstract] Theorem 8.4
+>
+>A finite connected graph is eularian if and only if each vertex has even degree
+
+>[!abstract] Corollary 8.4
+>
+>Every finite graph with two odd vertices is traversable. A traversable trail may begin at either odd vertex and end at the other odd vertex.
+
+>[!abstract] Hamiltonian Graph/circuit
+>
+>A Hamiltonian circuit is a closed path the visits every vertex exactly ones. If G does admit a hamiltonian circuit, then g is called a hamiltonian graph.
+
+>[!abstract] Definition: Simple path
 >
 >**Path**: A walk with no repeated vertices
->**Cycle**: A closed path:
+>**Closed path**: A closed path:
+>**Cycle:** Closed path with length 3 or more
 >![[Pasted image 20221022192227.png]]
 
 >[!abstract] Definition: Connected Graph
 >
 >![[Pasted image 20221022192430.png]]
 
+>[!abstract] Weights
+>
+>A graph is called a weighted graph if each edge of G is assigned a non-negative number w(e). The weight of a graph is all weights added up.
+
+>[!abstract] Complete graph:
+>
+>A graph G is said to be complete if every vertex in G is connected to every other vertex in G. Thus, a complete graph G must be connected. The complete graph with n vertices is denoted by $K_{n}$
+>![[Pasted image 20221026111337.png]]
+
+>[!abstract] Regular graphs
+>
+>A graph G is regular of degree k or k-regular if every vertex has degree k. In other words, a graph is regular if every vertex has the same degree.
+>![[Pasted image 20221026111643.png]]
+
+>[!abstract] Bipartite graph
+>
+>A graph G is said to be bipartite if its vertices V can be partitioned into two subsets M and N such that each edge of G connects a vertex of M to a vertex of N. By a complete bipartite graph, we mean that each vertex of M is connected to each vertex of N; this graph is denoted by $K_{m,n}$ where m is the number of vertices in M and n is the number of vertices in N, and, for standardization, we will assume m ≤ n
+>![[Pasted image 20221026111849.png]]
+
+
 ## [[Set algebra]]
->[!abstract] Associativity (Associa)
->
->$$(A\cup B) \cup C = (B\cup C) \cup A$$
 
->[!abstract] Commutativity (Comm)
->
->$$A \cup B = B \cup A$$
-
->[!abstract] Idempotency
->
->$$A \cup A = A$$
-
->[!abstract] Distributivity
->
->$$A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$$
-
->[!abstract] Zero element
->
-> $$A \cup \varnothing = A$$
-
->[!abstract] Unit element
->
->$$A \cup U = U$$
-
->[!abstract] Double complement
->
->$$(A^c)^c=A$$
-
->[!abstract] Complement 
->
->$$A \cap A^{c}= \varnothing $$
-
->[!abstract] De Morgan
->
->$$(A \cup B)^c = A^c \cap B^c$$
+| Law               | Option A                             | Option B                             |
+|-------------------|--------------------------------------|--------------------------------------|
+| Idempotent laws   | (1a) A ∪ A = A                       | (1b) A ∩ A = A                       |
+| Associative laws  | (2a) (A ∪ B) ∪ C = A ∪ (B ∪ C)       | (2b) (A ∩ B) ∩ C = A ∩ (B ∩ C)       |
+| Commutative laws  | (3a) A ∪ B = B ∪ A                   | (3b) A ∩ B = B ∩ A                   |
+| Distributive laws | (4a) A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C) | (4b) A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) |
+| Identity laws     | (5a) A ∪ ∅ = A                       | (5b) A ∩ U = A                       |
+|                   | (6a) A ∪ U = U                       | (6b) A ∩ ∅ = ∅                       |
+| Involution laws   | (7) $(A^c)^c$ = A                        |                                      |
+| Complement laws   | (8a)$A \cup A^c$ =U                          | (8b)$A \cap A^c$ =∅                          |
+|                   | (9a)UC =∅                            | (9b)$\varnothing ^c$ =U                            |
+| DeMorgan’slaws    | (10a)(A∪B)C =AC ∩BC                  | (10b)$(A \cap B)^c$ =$A^c$ ∪ $B^c$                  |
 
 >[!abstract] Math to Word:
 >$A \cup B=$ $x\in A$ or $x\in B$
@@ -109,27 +154,11 @@ Two sets A and B are said to be disjoint if they have no elements in common.
 >
 >$2^{n(S)}$
 
-
 >[!abstract] Definition
 >
 >n(A\B) = n(A) − n(A ∩ B)
 >For example, suppose an art class A has 25 students and 10 of them are taking a biology class B. Then the number of students in class A which are not in class B is:
 >n(A\B) = n(A)−n(A∩B) = 25−10 = 15
-
-
-
-| Law               | Option A                             | Option B                             |
-|-------------------|--------------------------------------|--------------------------------------|
-| Idempotent laws   | (1a) A ∪ A = A                       | (1b) A ∩ A = A                       |
-| Associative laws  | (2a) (A ∪ B) ∪ C = A ∪ (B ∪ C)       | (2b) (A ∩ B) ∩ C = A ∩ (B ∩ C)       |
-| Commutative laws  | (3a) A ∪ B = B ∪ A                   | (3b) A ∩ B = B ∩ A                   |
-| Distributive laws | (4a) A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C) | (4b) A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) |
-| Identity laws     | (5a) A ∪ ∅ = A                       | (5b) A ∩ U = A                       |
-|                   | (6a) A ∪ U = U                       | (6b) A ∩ ∅ = ∅                       |
-| Involution laws   | (7) $(A^c)^c$ = A                        |                                      |
-| Complement laws   | (8a)$A \cup A^c$ =U                          | (8b)$A \cap A^c$ =∅                          |
-|                   | (9a)UC =∅                            | (9b)$\varnothing ^c$ =U                            |
-| DeMorgan’slaws    | (10a)(A∪B)C =AC ∩BC                  | (10b)$(A \cap B)^c$ =$A^c$ ∪ $B^c$                  |
 
 ## Relations:
 >[!abstract] A × B
@@ -212,16 +241,5 @@ range is the set of second elements
 >
 >If a function is both One to One and Onto it kan be inverted: $A \to B$ becomes $B \to A$
 
-
-## Graphs 
->[!abstract] Multigraphs
->
->Graph with multiple edges from the same 2 vertices
-
->[!abstract] Deg
->
->The sum of the degrees of the vertices of a graph G is equal to twice the number of edges in G. 
->
->A vertex is said to be even or odd according as its degree is an even or an odd number. Thus A and D are even vertices whereas B and C are odd vertices.
 
 
