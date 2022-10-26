@@ -33,7 +33,7 @@
 
 >[!abstract] Disjoint Sets
 >
-Two sets A and B are said to be disjoint if they have no elements in common. 
+>Two sets A and B are said to be disjoint if they have no elements in common. 
 
 >[!abstract] Dual
 >
