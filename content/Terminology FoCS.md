@@ -150,7 +150,14 @@ range is the set of second elements
 
 >[!abstract] INVERTIBLE FUNCTIONS (bijective)
 >
->If a function is both One to One and Onto it kan be inverted: $A \to B$ becomes $B \to A$
+>If a function is both One to One and Onto it can be inverted: $A \to B$ becomes $B \to A$
+
+>[!abstract] Permutations 
+>
+>An invertible (bijective) function σ: X → X is called a permutation on X. The composition and inverses of permutations on X and the identity function on X are also permutations on X.
+>
+>The set of all such permutations is denoted by Sn, and there are n! = n(n − 1)···3 · 2 · 1 of
+them. For example,
 
 ## Graphs 
 >[!abstract] Multigraphs
