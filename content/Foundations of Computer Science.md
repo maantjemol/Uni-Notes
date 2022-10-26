@@ -47,8 +47,8 @@ title: "Foundations of Computer Science"
 
 ### Checklist:
 #### Set Theory:
-- [ ] Sets and Elements, Subsets
-- [ ] Venn Diagrams 
+- [x] Sets and Elements, Subsets
+- [x] Venn Diagrams 
 - [ ] Set Operations 
 - [ ] Algebra of Sets, Duality 
 - [ ] Finite Sets, Counting Principle 
@@ -63,7 +63,7 @@ title: "Foundations of Computer Science"
 - [ ] Closure Properties 
 - [ ] Equivalence Relations 
 - [ ] Partial Ordering Relations
-
+# **Permutations NAAR KIJKEN!!**
 #### Functions: 
 - [ ] Functions 
 - [ ] One-to-One, Onto, and Invertible [[functions]]
@@ -76,6 +76,12 @@ title: "Foundations of Computer Science"
 - [ ] Traversable and Eulerian Graphs, Bridges of Königsberg 
 - [ ] Labeled and Weighted Graphs 
 - [ ] Complete, Regular, and Bipartite Graphs
+
+## Planning woensdag:
+- [ ] 10 - 11: settelen en laatste stukje graphs lezen
+- [ ] 11 - 20 oefenen 
+- [ ] 25 min oefenen, 5 min pauze 
+- [ ] elke 1.5 uur 30 min pauze.
 
 ### Grade breakdown
 **Midterm:** 27 oct
