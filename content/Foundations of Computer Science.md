@@ -63,7 +63,7 @@ title: "Foundations of Computer Science"
 - [ ] Closure Properties 
 - [ ] Equivalence Relations 
 - [ ] Partial Ordering Relations
-# **Permutations NAAR KIJKEN!!**
+
 #### Functions: 
 - [ ] Functions 
 - [ ] One-to-One, Onto, and Invertible [[functions]]

@@ -11,7 +11,7 @@
 | Involution laws   | (7) $(A^c)^c$ = A                        |                                      |
 | Complement laws   | (8a)$A \cup A^c$ =U                          | (8b)$A \cap A^c$ =∅                          |
 |                   | (9a)UC =∅                            | (9b)$\varnothing ^c$ =U                            |
-| DeMorgan’slaws    | (10a)(A∪B)C =AC ∩BC                  | (10b)$(A \cap B)^c$ =$A^c$ ∪ $B^c$                  |
+| DeMorgan’slaws    | (10a)$(A \cup B)^{c}$ =$A^{c} \cap B^{c}$                  | (10b)$(A \cap B)^c$ =$A^c$ ∪ $B^c$                  |
 
 >[!abstract] Math to Word:
 >
@@ -140,11 +140,11 @@ range is the set of second elements
 >Consider functions f: A → B and g: B → C; that is, where the codomain of f is the domain of g. Then we may define a new function from A to C, called the composition of f and g and written g◦f , as follows:
 (g◦f )(a) ≡ g(f (a))
 
->[!abstract] One to One
+>[!abstract] One to One (injective)
 >
 >If every value in set A maps with a function to a unique value in set B
 
->[!abstract] Onto
+>[!abstract] Onto (surjective)
 >
 >If every B has an A mapped to it.
 

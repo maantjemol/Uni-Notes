@@ -24,7 +24,11 @@ perspectieven:
 	- [[Management piramide]]
 	- [[SMART]]
 	- [[Strategic Alignment Model]]
+	- [[Duivelsdriehoek]]
 - [[organisatie]]
+- [[Management]]
+- [[Project Management]]
+
 ## Assignments
 - Brightspace test maken
 ## Lectures
