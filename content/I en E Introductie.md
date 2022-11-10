@@ -25,10 +25,12 @@ perspectieven:
 	- [[SMART]]
 	- [[Strategic Alignment Model]]
 	- [[Duivelsdriehoek]]
-- [[organisatie]]
+- [[Organisatie]]
 - [[Management]]
 - [[Project Management]]
-
+- [[Externe druk]]
+- [[Interne druk]]
+- [[Industriele revoluties]]
 ## Assignments
 - Brightspace test maken
 ## Lectures
@@ -40,8 +42,7 @@ perspectieven:
 
 **Opdracht:**
 - krijgen een technologie en beschrijven die uit verschillende invalshoeken, staat op brightspace
-- 7 - 8 slides 
-- 
+- 7 – 8 slides 
 ### Grade breakdown
 55% tentamen:
 - openvragen
@@ -55,6 +56,7 @@ perspectieven:
 - presentatie: 40%
 ### Grading scale
 ### Tips 
+- Tentamen is ong 4 vragen
 - waarschijnlijk komt er dit in het tentamen:
 	- proces samenstellen van Nike fzo
 	- Geen gesloten vragen, geen multiple choice
