@@ -1,10 +1,7 @@
 ---
 title: "I & E Introductie"
 ---
-De combi tussen informatica en economie
-perspectieven:
-- Technisch perspectief
-- Economisch
+
 ## Notes & Ideas
 - [[Intergratie]]
 - [[Processen]]
@@ -31,6 +28,7 @@ perspectieven:
 - [[Externe druk]]
 - [[Interne druk]]
 - [[Industriele revoluties]]
+- [[Chatbots]]
 ## Assignments
 - Brightspace test maken
 ## Lectures
@@ -57,16 +55,26 @@ perspectieven:
 ### Grading scale
 ### Tips 
 - Tentamen is ong 4 vragen
+- Vraag 1 definitie 
+- vraag 2 ?
+- vraag 3 toepassing
 - waarschijnlijk komt er dit in het tentamen:
 	- proces samenstellen van Nike fzo
 	- Geen gesloten vragen, geen multiple choice
-	- Geef een voorbeeld van 3 KPI's op strategisch niveau bij de albert heijn
+	- Geef een voorbeeld van 3 KPIs op strategisch niveau bij de albert heijn
 	- Weet waar systemen die uit de opdracht komen over gaan
 	- Leg uit wat wordt bedoeld met integratie van Business en IT:
-		- Business en IT waren vroeger 2 verschillende dingen, deze worden nu samen gevoegd tot.
+		- Business en IT waren vroeger 2 verschillende dingen, deze worden nu samen gevoegd tot 1.
 	- Leg uit wat het belang is van het integreren van IT en Business in [[organisatie]]s. 
 		- Het belang is dat binnen een [[organisatie]] IT en Business samen kunnen werken om processes efficient en effectief kunnen zijn.
 	- Toelichting is heel belangrijk.
+	- Wat heeft Silicon Valley met business te maken.
+	- Strategie vraag over supermarkten
+- Licht elk antwoord toe. 
+- Bestudeer oefenententamens goed. 
+- Bekijk referentie en naslagwerk
+- Schrijf duidelijk
+- Ken alle modelen 
 ### Emails & Resources
 ### Important dates
 - Presentaties: 15 nov / 22 nov

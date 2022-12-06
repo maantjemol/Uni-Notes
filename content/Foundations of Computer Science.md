@@ -21,6 +21,8 @@ title: "Foundations of Computer Science"
 - [[Terminology FoCS]]
 - [[Recursion]]
 - [[Induction]]
+- [[Directed Graphs]]
+- [[Counting]]
 
 [Playlist 1](https://www.youtube.com/watch?v=OixshZzH8t0&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=53)
 [Playlist 2](https://www.youtube.com/watch?v=HkNdNpKUByM&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2&index=23&t=1s)

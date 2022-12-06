@@ -4,6 +4,10 @@ The goal of the course is to understand linear systems.
 - [[Matrices]]
 - [[Elementary row operations]]
 - [[Vectors]]
+- [[Span]]
+- [[functions linear]]
+- [[Transforms]]
+- [[Bijective]]
 
 ## Assignments
 ## Lectures
