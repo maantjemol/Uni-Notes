@@ -10,7 +10,7 @@ title: "I & E Introductie"
 - [[Enterprise Information Systems]]
 - [[Rol van ICT]]
 - Modelen:
-	- [[Porter]]
+	- [[Porters competative advantage]]
 	- [[Waardeketen]]
 	- [[Vijfkrachtenmodel]]
 	- [[SWOT]]
@@ -29,6 +29,13 @@ title: "I & E Introductie"
 - [[Interne druk]]
 - [[Industriele revoluties]]
 - [[Chatbots]]
+- [[Business Intelligence]]
+- [[Low Code]]
+- [[DMP]]
+- [[CDP]]
+- [[IoT]]
+- [[RPA]]
+- [[Samenvatting_IE]]
 ## Assignments
 - Brightspace test maken
 ## Lectures
@@ -58,6 +65,7 @@ title: "I & E Introductie"
 - Vraag 1 definitie 
 - vraag 2 ?
 - vraag 3 toepassing
+- Vergeet second party data
 - waarschijnlijk komt er dit in het tentamen:
 	- proces samenstellen van Nike fzo
 	- Geen gesloten vragen, geen multiple choice

@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "8fdaa6ec66650beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f6416a65b3bc0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d3328072b7e285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stadia Groepsvorming.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691bfa34ba5e2cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samenvatting_IE.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85aad1dc04ff9155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rol van ICT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ef6f50974a554b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44268014dccddfea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Porters competative advantage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ed63d579ce6a038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIKW piramide.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b45ae0bd111fa3a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "15ee346fbbe1f4de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81bfe00e1592e096",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d3fe94d80fb560af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7210def12f63664b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e06899bd2c029fbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5ca913baf2967eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f682ce8bd1b7a31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b0a5ff931cbaf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Samenvatting_IE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "644a3248195928c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Samenvatting_IE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a472125213997e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627d61902abc429f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "types-market-structure.png.webp"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "691bfa34ba5e2cd3",
+  "lastOpenFiles": [
+    "Rol van ICT.md",
+    "Samenvatting_IE.md",
+    "Enterprise Information Systems.md",
+    "Reporting.md",
+    "Processen.md",
+    "BPM.md",
+    "Stadia Groepsvorming.md",
+    "I en E Introductie.md",
+    "Porters competative advantage.md",
+    "SWOT.md"
+  ]
+}
