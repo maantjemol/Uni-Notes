@@ -20,6 +20,11 @@
 >**Een samenwerkingsverband**
 >Een organisatie is een **herkenbare** eenheid waarin mensen op een **gecoordineerde** wijze en met behulp van **technische** en **financiele middelen**, **activiteiten** uitvoeren teneinde **gemeenschappelijk doelen** te realiseren
 
+>[!abstract] Efficiënt vs Effectief
+>
+>**Efficiënt** is snel rennen, maar dit kan de verkeerde kant op zijn. **Effectief** is zorgen dat je de juiste route rent/op de juiste bestemming uit komt.
+>**Efficiënt** gaat over dingen op de **juiste manier** doen. **Effectief** gaat over de **juiste dingen** doen.
+
 ## Organisatie:
 Een bedrijf **moet een doel hebben**, **niet** alleen maar **geld verdienen**.
 >[!abstract] Visie 
@@ -245,6 +250,46 @@ ICT vormt de bedrijfsstrategie
 #### Bedrijfsstrategie <--> ICT strategie (geintergreerd)
 ![[Pasted image 20221011101315.png]]
 
+### [[Strategic Alignment Model]] 
+#### Alignment 
+We willen afstemming en ervoor zorgen dat bepaalde dingen met elkaar geintegreerd zijn. Alignment = [[Intergratie]] 
+Dit kan aan de hand van 2 assen:
+- Strategische Fit:
+	- Strategie moet passen bij de rest van de [[organisatie]]. 
+- Functionele [[Intergratie]] 
+	- Bedrijfs strategie moet passen bij IT strategie 
+- Alles moet passen bij elkaar:
+	- Bedrijfs strategie moet passen bij IT strategie, daarom de pijltjes ertussen.
+
+Je hoeft de aparte bolletjes niet te kennen.
+
+![[Pasted image 20221210123804.png]]
+
+#### Bedrijfs strategie 
+![[Pasted image 20221011102412.png]]
+
+#### Bedrijfs structuur 
+![[Pasted image 20221011102441.png]]
+
+#### IT strategie 
+![[Pasted image 20221011102430.png]]
+
+#### IT  structuur 
+![[Screenshot 2022-10-11 at 10.24.56.png]]
+
+
+## [[Management]] 
+De functie die **mensen coordineert** met het doel om doelen te behalen, gebruik makend van middelen op een zo **efficiënte en effective manier**. De hoofdfuncties van management zijn:
+1. *Forecasting*: **Voorspellen** wat er in de toekomst kan gaan gebeuren.
+2. *Planning*: Wat ga je doen om een doel later te behalen/**plan maken**.
+3. *Organizing*: Hoe ga je dit **plan** daadwerkelijk **uitvoeren**.
+4. *Commanding*: **Aansturen**, mensen instructies geven.
+5. *Coordinating*: **Overzicht houden**, zorgen dat alles goed loopt, sturen.
+6. *Controlling*: **Is** het geen wat er gedaan moest worden **daadwerkelijk gedaan**.
+
+Er zijn veel verschillende management stijlen, deze hoef je niet te kennen. Je moet vooral weten dat ze bestaan.
+
+### [[Project Management]]:
 
 
 
