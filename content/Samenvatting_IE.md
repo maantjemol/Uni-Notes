@@ -1,5 +1,5 @@
-## Tentamen vragen met uitleg:
-[Filmpje](https://bs-kaf-prod.universiteitleiden.nl/media/t/1_h2kodjoy/273110472)  
+## Linkjes:
+[Filmpje](https://bs-kaf-prod.universiteitleiden.nl/media/t/1_h2kodjoy/273110472) <-- Tentamen vragen met uitleg 
 [[I en E Introductie]] <-- alle aantekeningen
 
 ## Definities. 
