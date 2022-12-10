@@ -312,6 +312,50 @@ De '**duivelsdriehoek**' is een model om de relatie tussen drie meest gebruikte 
 ![[Pasted image 20221210134751.png]]
 
 
+## Silicon Valley 
+Fouten maken is niet erg en juist goed, van fouten leer je. Het delen van kennis was heel belangrijk. Silicon Valley begon met William Shockley. Hij leide een groep jongeren op die Fairchild begonnen. Fairchild groeide uit in een hoop verschillende bedrijven, een paar daarvan zijn Intel en IBM. 
+![[Pasted image 20221210142400.png]]
 
+### Wet van Moore
+Een wet die zegt dat de transistors op een chip elke 2 jaar verdubbelen. Dit is ook op data hoeveelheid toe te passen, die groeit ook exponentieel.
+
+### Xerox PARC
+Een onderzoeks instituut. Was eerst een print bedrijf. Is uitgegroeid en heeft heel veel verschillende dingen bedacht, zie hieronder:
+![[Pasted image 20221210142552.png]]
+
+### Silicon Valley & ondernemers:
+Silicon Valley is heel aantrekkelijk voor startups en ondernemers. Omdat er zoveel geld zit is het relatief makkelijk om investeerders te vinden.
+
+
+## Innovatie:
+Innovatie betekend letterlijk **vernieuwing**. Innovatie is de ontwikkeling en **succesvolle** invoering van nieuwe of verbeterde producten en diensten, productie en distributie [[processen]]. Vaak bied innovatie commerciële kansen voor bedrijven of individuen. Door druk van **klanten**, **concurrentie** en de **overheid** onstaat er vaak innovatie.
+
+### Voorbeelden
+- Combinatie van big data en machine learing bij MasterCard om fraude te detecteren.
+- Bluetooth als mogelijkheid voor het opzetten van een verbinding tussen verschillende apparaten.
+- Cloud computing om overal en vanaf verschilllende apparaten toegang te hebben tot bestanden en programma's.
+
+### Hoe wordt dit gefinancierd?
+- Subsidies vanuit de overheid 
+- Huren / leasen van spullen en servers 
+- Schulden:
+	- Friends, Family, Fools (1.000 - 10.000)
+	- Banken, zakelijke lening. Dit is vaak lastig voor jongeren want ze vragen vaak onderpand.
+	- Crowdfunding (0 – 100 miljoen), denk aan platformen zoals kickstarter.
+- Aandelen:
+	- Business Angels (10.000 - 1 miljoen), denk aan shark tank. 
+	- Venture Capitalist (1 miljoen — 100 miljoen/1 miljard soms) investerings rondes, gaan meestal verder met je eigen team. Willen naar een IPO
+	- Private Equity (100+ miljoen) kopen bedrijf op en zetten hun eigen management erin om zo het hele zooitje na 2 of 3 jaar met winst te verkopen.
+	- IPO (100+ miljoen) naar de beurs brengen. Hiermee kan heel veel verdiend worden.
+Er wordt vaak gekeken hoeveel er hebben gefaald, dit laat ervaring zien. Alles gaat om groeien, vaak wordt in de eerste 5 jaar verlies gemaakt. 
+
+### Hoe bescherm je jou innovatie?
+1. Een **patent** (exclusief recht tot het industrieel maken/verkopen van product), hiervoor moet je product aan verschillende voorwaarden voldoen:
+	- Het moet een **uitvinding** zijn;
+	- Het moet **nieuw** zijn;
+	- Het moet een **uitvinderswerkzaamheid** zijn;
+	- Het moet **industrieel toepasbaar** zijn;
+	Dit werkt slecht voor code, omdat het openbaar moet zijn. Een patent wordt wel vaak gebruikt voor functie of design. Patent is 20 jaar geldig.
+2. **Snel zijn**, als je snel groeit kan niemand je bij houden en ga je sneller dan alle concurrentie. Breng dus een MVP (Minimum Viable Product) uit en zorg dat je snel groeit.
 
 ## Systemen uit de opdracht:
