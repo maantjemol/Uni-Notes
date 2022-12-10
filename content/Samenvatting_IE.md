@@ -1,5 +1,6 @@
 ## Tentamen vragen met uitleg:
 [Filmpje](https://bs-kaf-prod.universiteitleiden.nl/media/t/1_h2kodjoy/273110472)
+[[I en E Introductie]] <-- alle aantekeningen
 
 ## Definities:
 >[!abstract] organisatie ijsberg:
@@ -290,6 +291,22 @@ De functie die **mensen coordineert** met het doel om doelen te behalen, gebruik
 Er zijn veel verschillende management stijlen, deze hoef je niet te kennen. Je moet vooral weten dat ze bestaan.
 
 ### [[Project Management]]:
+Een project is **tijdelijk**, vast **begin en eindpunt**. Vooraf **gedefinieerde scope** (je weet vooraf waaraan je gaat werken/wat je gaat bereiken) en **vaste resources** (mensen, spullen, geld). [[Project Management]] is een **tijdelijke groepsactiviteit** ontworpen om een **uniek** product, service of resultaat te behalen. Om dit doel te bereiken maakt men gebruik van een team van personen die **normaal niet samenwerken**. Soms komen deze mensen uit verschillende [[organisatie]]s.
+
+Je kan op verschillende manieren werken binnen een [[organisatie]]. **Improvisatie**, **plan** en **routine**. Een programma is een hoop projecten samen. De projecten zijn zo groot dat ze apart moeten worden aangestuurd.
+1. *Project matig:* We gaan een nieuw systeem implementeren. Dit gaan we uniek doen met een bepaalde groep mensen.
+2. *Routine matig*: Elke week hetzelfde doen
+3. *Improvisatie*: Gewoon komen opdagen, of misschien niet en lekker je ding doen zonder enig plan.
+
+![[Pasted image 20221210132245.png]]
+<br>
+| **Werkvorm**             | **Voordelen**                                                                                     | **nadelen** |
+| ------------------------ | ------------------------------------------------------------------------------------------------- | ----------- |
+| **Improviserend werken** | - Flexibel<br>- Inspelen op veranderingen <br>- Snel inspelen op de vraag<br>- Geen voorschriften | - Weinig beheersing<br>- Veel onzekerheid<br>- Weinig stabiliteit <br>- Geen richtlijnen <br>- Opnieuw het wiel uitvinden            |
+| **Projectmatig werken**  | - Effectief <br> - Resultaat gericht <br> - Grote betrokkenheid van de medewerkers <br> - Goede beheersing <br> - Verbeterde samenwerking <br> - Werknemers kunnen zelfstandig functioneren                  |      - Kostbare aanloopfase <br> - Bureaucratisering doordat alles wordt vastgelegd <br> - Zware taak als projectleider <br> - Spanningen binnen de organisatie door tegengestelde belangen       |
+| **routine matig werken** |       - Effiecient <br> - Kwaliteit neemt toe <br> - Gelijke prestaties over een langere periode           |        - Niet flexibel <br> - Geen mogelijkheid om in te spelen op veranderende vraag     |
+
+
 
 
 
