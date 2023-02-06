@@ -10,9 +10,9 @@
 
 >[!abstract] Integratie
 >
->Hoe kunnen bedrijven IT en nieuwe techniek toepassen en gebruiken.
+>Het **samenvoegen** van twee of meerdere (op het oog) verschillende vakgebieden/aspecten van de maatschappij/technieken, met het doel een **waarde te creëren die groter is dan de individuele aspecten** bij elkaar opgeteld. (whole that is greater than the simple sum of its parts)
 
->[!abstract] [[SWOT]] analyse
+>[!abstract] SWOT analyse
 >
 >![[Pasted image 20221207161422.png]]
 
@@ -25,6 +25,21 @@
 >
 >**Efficiënt** is snel rennen, maar dit kan de verkeerde kant op zijn. **Effectief** is zorgen dat je de juiste route rent/op de juiste bestemming uit komt.
 >**Efficiënt** gaat over dingen op de **juiste manier** doen. **Effectief** gaat over de **juiste dingen** doen.
+
+
+## Modelen:
+- [[Porters competative advantage]]
+- [[Treacy en Wiersema]]
+- [[Waardeketen]]
+- [[Vijfkrachtenmodel]]
+- [[SWOT]]
+- [[DESTEP]]
+- [[Stadia Groepsvorming]]
+- [[DIKW piramide]]
+- [[Management piramide]]
+- [[SMART]]
+- [[Strategic Alignment Model]]
+- [[Duivelsdriehoek]]
 
 ## Organisatie:
 Een bedrijf **moet een doel hebben**, **niet** alleen maar **geld verdienen**.
@@ -77,7 +92,7 @@ Albert-heijn:
 #### Waarde keten:
 ![[Pasted image 20221208141931.png]]
 ### Externe factoren voor een [[organisatie]]:
-**DESTEP** is een afkorting van de zes belangrijkste factoren die van invloed zijn op het ondernemersklimaat: **Demografie**, **Economie**, **Samenleving**, **Technologie**, **Omgeving** en **Politiek**. Het DESTEP-model is een instrument dat bedrijven en overheden kan helpen bij het analyseren van deze factoren om beter te begrijpen hoe ze invloed hebben op de markt en op het bedrijf.
+**DESTEP** is een afkorting van de zes belangrijkste factoren die van invloed zijn op het ondernemersklimaat: **Demografie**, **Economie**, **§enleving**, **Technologie**, **Omgeving** en **Politiek**. Het DESTEP-model is een instrument dat bedrijven en overheden kan helpen bij het analyseren van deze factoren om beter te begrijpen hoe ze invloed hebben op de markt en op het bedrijf.
 
 **Demografie** gaat over de bevolking en de verdeling van de bevolkingsgroepen, zoals leeftijd, geslacht, opleiding en inkomen. Dit kan van invloed zijn op de vraag naar producten en diensten van het bedrijf.
 
@@ -185,7 +200,6 @@ Het doel van een Enterprise Information System is het bieden van een technologis
 
 ### Mogelijke vragen:
 - Welk soort [[Processen]] kunnen worden ondersteund door dit systeem?
-- 
 
 ### Voorbeelden:
 **ERP (Enterprise Resource Planning)**
@@ -455,4 +469,10 @@ Robotic process automation is technologie waarbij alle **representatieve taken h
 
 #### Voor/nadelen:
 - Verbeterd nauwkeurigheid, voorkomt menselijke fouten
-- Mensen verliezen hun baan (kan voordeel en nadeel zijn)
+- Mensen verliezen hun baan (kan voordeel en nadeel zijn.
+
+
+**Nog doen ochtend:**
+1. Systemen opdracht doorlezen 
+2. [[Strategic Alignment Model]] leren 
+3. 

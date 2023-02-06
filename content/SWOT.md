@@ -4,6 +4,7 @@ title: "SWOT"
 
 # SWOT
 **course:**
+![[Pasted image 20221207161422.png]]
 ## Definition
 Analyse model om de kracht van bedrijven te analyseren
 SWOT:
