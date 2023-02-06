@@ -24,6 +24,11 @@ You can modify [[Propositional logic]] with [[Connectives]]:
 **M**: There is good music playing (*Antecent*)
 **M→D**: If there is good music playing, I will dance 
 
+### Biconditional: **↔**
+#### Example:
+**D**: I will dance (*Consequence*)
+**M**: There is good music playing (*Antecent*)
+**M↔D**: I will dance if and only if there is good music playing 
 
 
 
